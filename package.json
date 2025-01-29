@@ -11,13 +11,10 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@libsql/client": "^0.14.0",
     "@remix-run/css-bundle": "^2.13.1",
     "@remix-run/node": "^2.13.1",
     "@remix-run/react": "^2.13.1",
     "@remix-run/serve": "^2.13.1",
-    "drizzle-kit": "^0.26.2",
-    "drizzle-orm": "^0.35.3",
     "isbot": "^4.4.0",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
